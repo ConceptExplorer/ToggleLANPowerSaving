@@ -1,0 +1,18 @@
+MIT License
+
+Copyright (c) 2026 ConceptExplorer
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Stick with **`ToggleLANPowerSaving`** (without the "s"). 
+
+Here is why:
+
+1. **Matches Your Script File**: Your script is already named `ToggleLANPowerSaving.ps1`. Keeping the repository name identical avoids any mismatch when cloning or documenting it.
+2. **Standard Developer Naming**: In software development, feature flags and power modes usually use singular terminology (e.g., "Power Saving Mode", "Energy Saving"). 
+
+You are good to go! Click **Create repository** and push your files.
+
+<Elicitations message="What would you like to do next?">
+  <Elicitation label="Create desktop shortcut" query="How can I create a 1-click desktop shortcut on my PC to launch this script with administrator rights?" />
+  <Elicitation label="Add auto-exit timer" query="How can I add a timeout option so the menu auto-exits after inactivity?" />
+</Elicitations>
