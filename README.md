@@ -36,7 +36,7 @@ This script provides an interactive CLI dashboard that automatically queries you
 
 1. Download or clone this repository to your local machine:
    ```cmd
-   git clone https://github.com/your-username/ToggleLANPowerSaving.git
+   git clone https://github.com/ConceptExplorer/ToggleLANPowerSaving.git
    ```
 2. Navigate to the folder containing `ToggleLANPowerSaving.ps1`.
 3. Right-click `ToggleLANPowerSaving.ps1` and select **Run with PowerShell** (or launch from an elevated PowerShell console):
